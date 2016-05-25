@@ -2,4 +2,6 @@ I am Hich and I do not eat Ham. This is our first commit.
 
 How are you? Well goot thanks!
 
-hii
+hi
+
+Minor Change 
